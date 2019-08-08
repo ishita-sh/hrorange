@@ -17,7 +17,7 @@ WebUI.openBrowser('https://opensource-demo.orangehrmlive.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.delay(5)
+WebUI.delay(7)
 
 WebUI.setText(findTestObject('ORANGEHR/Page_OrangeHRM/input_LOGIN Panel_txtUsername'), 'Admin')
 
